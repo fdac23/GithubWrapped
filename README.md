@@ -23,7 +23,9 @@ gcloud services list
 ## Obtaining Github Access Token 
 - https://github.com/settings/tokens
 
-## Project Goals?? 
+## Project Goals
+![image](https://github.com/fdac23/GithubWrapped/assets/21347911/e7bc4e25-0dea-473e-ab20-d2ace1d3b61e)
+
 
 ## Resources
 - https://www.kaggle.com/code/poonaml/analyzing-3-million-github-repos-using-bigquery
